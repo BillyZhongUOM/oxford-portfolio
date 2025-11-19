@@ -78,9 +78,9 @@ const EXPERTISE = [
 ];
 
 const TEACHING = [
-  { course: "Health Data Science MSc", role: "Lecturer", uni: "University of Manchester", year: "2023 - Present" },
+  { course: "Health Data Science MSc", role: "Guest Lecturer", uni: "University of Manchester", year: "2022 - Present" },
   { course: "Global Health Science MSc", role: "Project Supervisor", uni: "University of Oxford", year: "2024 - Present" },
-  { course: "Introduction to Epidemiology", role: "Teaching Assistant", uni: "Peking University", year: "2019 - 2020" }
+  { course: "Health Informatics PhD", role: "Co-Supervisor", uni: "University of Manchester", year: "2023 - 2024" }
 ];
 
 // --- 组件 ---
